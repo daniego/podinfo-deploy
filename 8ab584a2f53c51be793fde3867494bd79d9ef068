@@ -1,0 +1,1 @@
+{"jobID":"f850e612-ce0a-3f30-a7c9-b26d4b0a8909","spec":{"type":"policy","cause":{"Message":"","User":"Daniel Floris \u003cdaniel@lonres.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
