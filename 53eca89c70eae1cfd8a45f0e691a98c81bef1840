@@ -1,0 +1,1 @@
+{"jobID":"85e86064-dd3d-6646-31dd-d2b2f89ca9e8","spec":{"type":"policy","cause":{"Message":"","User":"Daniel Floris \u003cdaniel@lonres.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"\"","locked_user":"Daniel Floris \u003cdaniel@lonres.com\u003e"}}}},"result":null}
